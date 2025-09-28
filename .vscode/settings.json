@@ -1,0 +1,8 @@
+{
+    "verilog.includePath": [
+        "${workspaceFolder}/**"
+    ],
+    "verilog.linting.iverilog.includePath": [
+        "${workspaceFolder}/**"
+    ]
+}
