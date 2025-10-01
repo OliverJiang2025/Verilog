@@ -1,3 +1,6 @@
+// `include "LED\led.v"   
+// 不写这个include在vscode里面会报错因为语法检测器找不到在另外一个文件里面已经定义过的module
+// 但是这个include如果放到仿真软件可能会出错因为已经指出来要编译的文件了
 // 仿真激励：给LED模块发使能信号
 module led_tb();
 
