@@ -1,0 +1,7 @@
+{
+    "verilog.linting.linter": "iverilog",  
+    "verilog.includePath": [
+        "${workspaceFolder}",  
+        "${workspaceFolder}/src"  
+    ]
+}
